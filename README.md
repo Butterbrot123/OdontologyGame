@@ -1,6 +1,7 @@
 # OdontologyGame
 
-![MorphologyGameMenuREVISED](https://github.com/Butterbrot123/OdontologyGame/assets/43400870/44613fbd-4bb7-4560-bb59-807cbc85a6d4)
+![menu](https://github.com/Butterbrot123/OdontologyGame/assets/43400870/420a4b36-3d57-4aaa-a095-a180a25b7d2a)
+
 
 Webdevelopment second Semester Group-Project: made with unity and Blender. 
 
